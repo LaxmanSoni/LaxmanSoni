@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxman Soni</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">Associate data engineer </h3>
 <img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxnW3yvacsN5bYPUlz2uPdzTa_qMIAu_-SXYvF2Jt3w&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmansoni&label=Profile%20views&color=0e75b6&style=flat" alt="laxmansoni" /> </p>
